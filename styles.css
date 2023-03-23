@@ -1,0 +1,29 @@
+main {
+  box-sizing: border-box;
+  max-width: 800px;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+section * {
+  margin-left: 50px;
+}
+
+label, 
+input {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+label {
+  width: 80px;
+  font-size: 1.3rem;
+}
+
+input {
+  width: 200px;
+}
